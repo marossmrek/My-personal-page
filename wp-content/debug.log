@@ -1,0 +1,98 @@
+[31-Jan-2017 14:36:10 UTC] ssssssss
+[31-Jan-2017 14:36:12 UTC] ssssssss
+[31-Jan-2017 14:49:07 UTC] PHP Notice:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\xampp\htdocs\WP_MP\wp-admin\includes\class-theme-upgrader.php on line 124
+[31-Jan-2017 15:11:07 UTC] PHP Warning:  mail(): &quot;sendmail_from&quot; not set in php.ini or custom &quot;From:&quot; header missing in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 4
+[01-Feb-2017 08:05:22 UTC] PHP Fatal error:  Call to undefined function wp_get_nav_menu_item() in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\header.php on line 13
+[01-Feb-2017 08:06:08 UTC] PHP Fatal error:  Call to undefined function wp_get_nav_menu_item() in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\header.php on line 13
+[01-Feb-2017 08:06:21 UTC] PHP Fatal error:  Call to undefined function wp_get_nav_menu_item() in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\header.php on line 13
+[01-Feb-2017 08:06:52 UTC] PHP Fatal error:  Call to undefined function wp_get_nav_menu_item() in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\header.php on line 13
+[01-Feb-2017 14:07:47 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\WP_MP\wp-includes\class-wp-query.php on line 3080
+[01-Feb-2017 14:08:28 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\WP_MP\wp-includes\class-wp-query.php on line 3080
+[01-Feb-2017 14:36:23 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\WP_MP\wp-includes\class-wp-query.php on line 3080
+[01-Feb-2017 14:42:57 UTC] PHP Notice:  Use of undefined constant post_title - assumed 'post_title' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:42:57 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:43:38 UTC] PHP Notice:  Use of undefined constant post_title - assumed 'post_title' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:43:38 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:45:05 UTC] PHP Notice:  Use of undefined constant post_title - assumed 'post_title' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:45:05 UTC] PHP Fatal error:  Cannot use object of type WP_Post as array in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:46:18 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:46:18 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:46:18 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 14:46:18 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 6
+[01-Feb-2017 15:58:09 UTC] PHP Fatal error:  Call to undefined function prnt_r() in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 8
+[01-Feb-2017 16:20:04 UTC] PHP Notice:  Use of undefined constant mouse - assumed 'mouse' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 12
+[01-Feb-2017 16:20:04 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:20:04 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:20:04 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:20:07 UTC] PHP Notice:  Use of undefined constant mouse - assumed 'mouse' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 12
+[01-Feb-2017 16:20:07 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:20:07 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:20:07 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:20:46 UTC] PHP Notice:  Use of undefined constant mouse - assumed 'mouse' in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 12
+[01-Feb-2017 16:20:46 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:20:46 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:20:46 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:23:27 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:23:27 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:23:27 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:23:30 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:23:30 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:23:30 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:24:46 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:24:46 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:24:46 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:24:46 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 12
+[01-Feb-2017 16:24:56 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:24:56 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:24:56 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:24:56 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\index.php on line 12
+[01-Feb-2017 16:25:21 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:25:21 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:25:21 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:25:23 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:25:23 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:25:23 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:25:29 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 205
+[01-Feb-2017 16:25:29 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 213
+[01-Feb-2017 16:25:29 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in C:\xampp\htdocs\WP_MP\wp-includes\shortcodes.php on line 214
+[01-Feb-2017 16:54:19 UTC] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\WP_MP\wp-includes\class-wp-query.php on line 3080
+[02-Feb-2017 15:23:53 UTC] PHP Notice:  Undefined index: text in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 15:37:39 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:37:45 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:37:49 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:37:53 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:37:57 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:37:57 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 15:38:04 UTC] PHP Parse error:  syntax error, unexpected ''</li>' (T_ENCAPSED_AND_WHITESPACE) in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[02-Feb-2017 17:04:08 UTC] PHP Notice:  Undefined index: h1 in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:04:08 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:05:23 UTC] PHP Notice:  Undefined index: h1 in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:05:23 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:06:27 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:06:27 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:06:27 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:06:27 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:08:50 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:08:50 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:08:50 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:08:50 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:09 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:09 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:09 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:09 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:55 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:55 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:55 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:10:55 UTC] PHP Notice:  Undefined index: h in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 19
+[02-Feb-2017 17:12:39 UTC] PHP Notice:  Undefined index: h1 in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[02-Feb-2017 17:12:39 UTC] PHP Notice:  Undefined index: p in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 20
+[03-Feb-2017 08:36:02 UTC] PHP Notice:  Undefined index: nazov in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 32
+[03-Feb-2017 08:36:02 UTC] PHP Notice:  Undefined index: cena in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 34
+[03-Feb-2017 08:36:02 UTC] PHP Notice:  Undefined index: technologa in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 37
+[03-Feb-2017 08:36:02 UTC] PHP Notice:  Undefined index: ponuka in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 38
+[03-Feb-2017 08:36:02 UTC] PHP Notice:  Undefined index: obsah in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39
+[03-Feb-2017 08:37:04 UTC] PHP Notice:  Undefined index: nazov in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 32
+[03-Feb-2017 08:37:04 UTC] PHP Notice:  Undefined index: cena in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 34
+[03-Feb-2017 08:37:04 UTC] PHP Notice:  Undefined index: technologa in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 37
+[03-Feb-2017 08:37:04 UTC] PHP Notice:  Undefined index: ponuka in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 38
+[03-Feb-2017 08:37:04 UTC] PHP Notice:  Undefined index: obsah in C:\xampp\htdocs\WP_MP\wp-content\themes\webmaker\inc\shortcodes.php on line 39

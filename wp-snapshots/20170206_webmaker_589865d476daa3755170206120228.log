@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-02-06 12:02:49
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.30
+WORDPRESS:	4.7.2
+PHP INFO:	5.6.23 | SAPI: apache2handler
+SERVER:		Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.23 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 21.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170206_webmaker_589865d476daa3755170206120228_database.sql 
+SQL FILE SIZE: 697.96KB (714709) 
+SQL FILE TIME: 2017-02-06 12:02:49 
+SQL RUNTIME: 0.11 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/WP_MP 
+ARCHIVE FILE: 20170206_webmaker_589865d476daa3755170206120228_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	32MB 
+STATS:	Dirs 194 | Files 1,722 
+SQL ADDED: 20170206_webmaker_589865d476daa3755170206120228_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1916
+    [filename] => C:\xampp\htdocs\WP_MP\wp-snapshots\tmp\20170206_webmaker_589865d476daa3755170206120228_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 15.28MB 
+ARCHIVE RUNTIME: 7.93 sec. 
+MEMORY STACK: 21.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/WP_MP/wp-snapshots/tmp/20170206_webmaker_589865d476daa3755170206120228_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 697.96KB 
+Installer File: 383.02KB 
+Archive File: 15.28MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 8.44 sec.
+PEAK PHP MEMORY USED: 24.25MB
+DONE PROCESSING => 20170206_webmaker 2017-02-06 12:02:57
+ 
