@@ -131,6 +131,10 @@ a{
     color: #1E1E1E;
 }
 
+#wpcf7-f53-p35-o1 +p{
+    display: none;
+}
+
 .wpcf7{
     height: 100%;
 }
@@ -1282,6 +1286,24 @@ i.Phone.is-animating{
     .pricing-table li {
         padding: 4%;
     }
+
+    .slogan {
+        height: 30%;
+        top: 0;
+    }
+
+    .wpcf7 {
+        height: 70%;
+    }
+
+    .jump {
+        height: 100%;
+        top: 0;
+
+    }
+    .call_me {
+        padding: 3% 0%;
+    }
 }
 
 @media (max-width: 850px) {
@@ -1337,6 +1359,23 @@ i.Phone.is-animating{
         font-size: 13px;
     }
 
+    .call_me {
+        font-size: 40px;
+    }
+
+    .con_f {
+        font-size: 12px;
+    }
+
+    label {
+        font-size: 10px;
+    }
+    .wpcf7-submit {
+        width: 28%;
+        padding: 12px;
+        font-size: 15px;
+    }
+
 }
 
 @media (max-width: 550px) {
@@ -1383,6 +1422,24 @@ i.Phone.is-animating{
 
     .pricing-table li {
         font-size: 10px;
+    }
+
+    .call_me {
+        font-size: 32px;
+    }
+
+    .con_f {
+        font-size: 11px;
+    }
+
+    label {
+        padding-bottom: 7px;
+        font-size: 8px;
+    }
+    .wpcf7-submit {
+        width: 23%;
+        padding: 10px;
+        font-size: 13px;
     }
 
 }
@@ -1463,6 +1520,33 @@ i.Phone.is-animating{
     h3.pricing-title {
         font-size: 18px;
     }
+
+    .slogan {
+        height: 25%;
+        padding: 5%;
+    }
+
+    .wpcf7 {
+        height: 75%;
+    }
+
+    .call_me {
+        font-size: 28px;
+    }
+
+    .con_f {
+        font-size: 10px;
+    }
+
+    label {
+        padding-bottom: 5px;
+        font-size: 7px;
+    }
+    .wpcf7-submit {
+        width: 20%;
+        padding: 8px;
+        font-size: 11px;
+    }
 }
 
 @media (max-width: 360px) {
@@ -1481,6 +1565,28 @@ i.Phone.is-animating{
     }
     .my_price {
         margin: 20px 0px;
+    }
+
+    .slogan {
+        padding: 6%;
+    }
+
+    .call_me {
+        font-size: 25px;
+    }
+
+    .con_f {
+        font-size: 9px;
+    }
+
+    label {
+        padding-bottom: 4px;
+    }
+
+    .wpcf7-submit {
+        width: 17%;
+        padding: 6px;
+        font-size: 9px;
     }
 
 }
@@ -1510,6 +1616,33 @@ i.Phone.is-animating{
 
     .pricing-table li {
         padding: 1%;
+        font-size: 7px;
+    }
+
+    .slogan {
+         height: 20%;
+     }
+
+    .wpcf7 {
+        height: 80%;
+    }
+
+    .call_me {
+        font-size: 20px;
+    }
+
+    .con_f {
+        font-size: 8px;
+    }
+
+    label {
+        padding-bottom: 3px;
+        font-size:6px;
+    }
+
+    .wpcf7-submit {
+        width: 15%;
+        padding: 5px;
         font-size: 7px;
     }
 
